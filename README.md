@@ -11,7 +11,7 @@ Desafio da aula stage 09 da Rocketseat.
 <p align="center">
   <a href="#-páginas">Páginas da Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 📄 Páginas da Aplicação
