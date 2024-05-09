@@ -5,7 +5,7 @@ Desafio da aula stage 09 da Rocketseat.
 </p>
 
 <p align="center">
-  <img alt="imagem da capa do frontend" src="./github/tema.png">
+  <img alt="imagem da capa do frontend" src="./src/github/tema.png">
 </p>
 
 <p align="center">
