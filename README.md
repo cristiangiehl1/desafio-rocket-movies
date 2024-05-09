@@ -5,14 +5,25 @@ Desafio da aula stage 09 da Rocketseat.
 </p>
 
 <p align="center">
-  <img alt="License" src="./github/theme.png">
+  <img alt="imagem da capa do frontend" src="./github/theme.png">
 </p>
 
 <p align="center">
+  <a href="#-páginas">Páginas da Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+## 📄 Páginas da Aplicação
+
+Esse projeto desenvolveu as seguintes páginas da aplicação:
+
+- Home
+- SignIn
+- SignUp
+- Preview
+- Profile
+- New  
 
 ## 🚀 Tecnologias
 
